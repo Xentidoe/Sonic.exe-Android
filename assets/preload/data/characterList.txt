@@ -30,3 +30,5 @@ bf-Sonic-Peelout
 bf-running-sonic
 bf-sonic-gameover
 starved-pixel
+bf-tails
+starved
